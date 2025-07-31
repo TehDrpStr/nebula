@@ -1,0 +1,13 @@
+{
+  "itemGroup.nebula": "Example Mod Tab",
+  "block.nebula.example_block": "Example Block",
+  "item.nebula.example_item": "Example Item",
+
+  "nebula.configuration.title": "Nebula Configs",
+  "nebula.configuration.section.nebula.common.toml": "Nebula Configs",
+  "nebula.configuration.section.nebula.common.toml.title": "Nebula Configs",
+  "nebula.configuration.items": "Item List",
+  "nebula.configuration.logDirtBlock": "Log Dirt Block",
+  "nebula.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nebula.configuration.magicNumber": "Magic Number"
+}
